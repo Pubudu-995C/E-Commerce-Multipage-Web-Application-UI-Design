@@ -1,6 +1,6 @@
 # E-Commerce Multipage Web Application UI Design
 
-![Project Logo](assets/logo.png)
+![logo](https://github.com/Pubudu-995C/E-Commerce-Multipage-Web-Application-UI-Design/assets/63751090/6616001f-32b5-49e4-b144-66e7512348d3)
 
 Welcome to the E-Commerce Multipage Web Application UI Design project! This repository contains the source code for a user interface designed for an E-Commerce web application using HTML, CSS, and JavaScript.
 
