@@ -12,7 +12,7 @@ Check out the live demo: [E-Commerce Multipage UI](https://pubudu-995c.github.io
 
 - [Features](#features)
 - [Homepage](#homepage)
-- [Shop Page](#shoppage)
+- [ShopPage](#shoppage)
 
 ## Features
 
@@ -26,7 +26,7 @@ Check out the live demo: [E-Commerce Multipage UI](https://pubudu-995c.github.io
 
 ![E-Commerce (2)](https://github.com/Pubudu-995C/E-Commerce-Multipage-Web-Application-UI-Design/assets/63751090/bda33f38-541b-40e7-8d3e-72336a32e570)
 
-## Shop Page
+## ShopPage
 
 ![E-Commerce (5)](https://github.com/Pubudu-995C/E-Commerce-Multipage-Web-Application-UI-Design/assets/63751090/bf723339-e57b-49a0-a952-5ebe98c5b54f)
 
