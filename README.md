@@ -11,11 +11,7 @@ Check out the live demo: [E-Commerce Multipage UI](https://pubudu-995c.github.io
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -23,9 +19,6 @@ Check out the live demo: [E-Commerce Multipage UI](https://pubudu-995c.github.io
 - Multiple pages for a complete E-Commerce experience.
 - Built with HTML, CSS, and JavaScript for a dynamic and interactive UI.
 
-## Installation
+## Screenshots
 
-1. **Clone the repository to your local machine:**
 
-   ```bash
-   git clone https://github.com/pubudu-995c/E-Commerce-Multipage-Web-Application-UI-Design.git
