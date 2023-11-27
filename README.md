@@ -11,9 +11,8 @@ Check out the live demo: [E-Commerce Multipage UI](https://pubudu-995c.github.io
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
-  - [Homepage](#homepage)
-  - [Shop Page](#shoppage)
+- [Homepage](#homepage)
+- [Shop Page](#shoppage)
 
 ## Features
 
