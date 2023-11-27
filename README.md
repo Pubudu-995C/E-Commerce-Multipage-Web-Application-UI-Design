@@ -20,8 +20,6 @@ Check out the live demo: [E-Commerce Multipage UI](https://pubudu-995c.github.io
 - Multiple pages for a complete E-Commerce experience.
 - Built with HTML, CSS, and JavaScript for a dynamic and interactive UI.
 
-## Screenshots
-
 ## Homepage
   
 ![E-Commerce (1)](https://github.com/Pubudu-995C/E-Commerce-Multipage-Web-Application-UI-Design/assets/63751090/d690db47-559c-46ec-bead-a39fb26606c7)
